@@ -1,0 +1,7 @@
+/* App.css */
+body {
+  background: linear-gradient(to bottom right, #284462, #24383e, #1f2d3a, #1a2136, #151532);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
